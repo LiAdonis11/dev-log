@@ -14,3 +14,4 @@
 ## Week 2
 
 ### Day 1
+-Automate the boring Stuff with python (Ch.2)
