@@ -19,6 +19,7 @@
 - Finished Automate the boring Stuff with python (Ch.2)
 ### Day 3
 - Finished 1 theory in FCC in loops and sequences (Lists and How Do They Work).
-### Day 
+### Day 4
 - Finished 1 theory in FCC in loops and sequences (Some Common Methods Used for Lists).
-
+### Day 5
+- Started watching the lecture 1: Conditionals (CS50P)
