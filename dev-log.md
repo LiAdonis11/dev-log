@@ -23,3 +23,5 @@
 - Finished 1 theory in FCC in loops and sequences (Some Common Methods Used for Lists).
 ### Day 5
 - Started watching the lecture 1: Conditionals (CS50P)
+## Day 6
+- Finished lecture 1: Conditionals (CS50P)
