@@ -27,3 +27,5 @@
 ### Day 6
 - Finished lecture 1: Conditionals (CS50P)
 - Solved 1 problem on Conditionals (CS50P)
+## Day 7 
+- Solved 4 problems on Conditionals (CS50P)
