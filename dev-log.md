@@ -25,9 +25,11 @@
 ### Day 5
 - Started watching the lecture 1: Conditionals (CS50P)
 ### Day 6
-- Finished lecture 1: Conditionals (CS50P)
+- Finished lecture on Conditionals: Conditionals (CS50P)
 - Solved 1 problem on Conditionals (CS50P)
 ### Day 7 
 - Solved 4 problems on Conditionals (CS50P)
-### Day 8
-- 
+
+## Week 3
+### Day 1
+-Finished lecture on Loops: Conditionals (CS50P)
