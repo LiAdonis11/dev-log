@@ -33,3 +33,5 @@
 ## Week 3
 ### Day 1
 -Finished lecture on Loops: Conditionals (CS50P)
+### Day 2
+- Finish 2 theory FCC in loops and sequences (Tuples).
