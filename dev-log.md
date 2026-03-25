@@ -35,5 +35,6 @@
 -Finished lecture on Loops: Conditionals (CS50P)
 ### Day 2
 - Finish 2 theory FCC in loops and sequences (Tuples).
-## Day 3
+##3 Day 3
 - Done step 1 to 61 in fcc Responsive Web Design Certification
+### Day 4
