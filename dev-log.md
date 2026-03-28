@@ -41,3 +41,5 @@
 - Done step 62 to 86 in fcc Responsive Web Design Certification
 ### Day 5
 - Build a travel agency page from fcc.
+### Day 6
+- Done step 87 to 111 in fcc Responsive Web Design Certification
