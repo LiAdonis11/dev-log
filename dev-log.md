@@ -46,4 +46,6 @@
 ### Day 7
 - Done step 112 to 130 in fcc Responsive Web Design Certification
 ### Day 8
-- Done step 131 in fcc Responsive Web Design Certification
+- Done step 131 in fcc Responsive Web Design 
+### Day 9
+- Done step 132 in fcc Responsive Web Design Certification
