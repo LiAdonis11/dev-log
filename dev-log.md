@@ -61,3 +61,5 @@
 - Done step 190 in fcc Responsive Web Design Certification
 ### Day 15
 - Done step 192 in fcc Responsive Web Design Certification
+### Day 16
+- Done step 244 in fcc Responsive Web Design Certification
