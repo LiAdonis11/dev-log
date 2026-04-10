@@ -65,3 +65,5 @@
 - Done step 244 in fcc Responsive Web Design Certification
 ### Day 17
 - Done step 246 in fcc Responsive Web Design Certification
+### Day 18
+- Done step 250 in fcc Responsive Web Design Certification
