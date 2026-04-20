@@ -79,3 +79,5 @@
 - Done step 297 in fcc Responsive Web Design Certification
 ### Day 24
 - Done step 298 in fcc Responsive Web Design Certification
+### Day 25
+- Done step 301 in fcc Responsive Web Design Certification
