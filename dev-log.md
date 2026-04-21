@@ -81,3 +81,5 @@
 - Done step 298 in fcc Responsive Web Design Certification
 ### Day 25
 - Done step 301 in fcc Responsive Web Design Certification
+### Day 26
+- FCC HTML completed
