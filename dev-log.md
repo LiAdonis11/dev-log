@@ -83,3 +83,5 @@
 - Done step 301 in fcc Responsive Web Design Certification
 ### Day 26
 - FCC HTML completed
+### Day 27
+- Done Css Basic
