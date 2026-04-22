@@ -85,4 +85,4 @@
 - FCC HTML completed
 ### Day 27
 - Done Css Basic
-- Design a Cafe Menu steps 1 - 39
+- Design a Cafe Menu steps 1 - 40
