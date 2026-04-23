@@ -89,3 +89,4 @@
 ### Day 28
 - Design a Cafe Menu steps 40 - 57
 - Design a Cafe Menu steps 57 - 63
+- Finished the Design a cafe menu
