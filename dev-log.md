@@ -92,3 +92,5 @@
 - Finished the Design a cafe menu
 ### Day 29
 - Finished designing the business card in fcc
+### Day 30
+- Finished reading the theories on css specificty, cascade algorithm and inheritance
