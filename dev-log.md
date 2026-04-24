@@ -90,3 +90,5 @@
 - Design a Cafe Menu steps 40 - 57
 - Design a Cafe Menu steps 57 - 63
 - Finished the Design a cafe menu
+### Day 29
+- Finished designing the business card in fcc
