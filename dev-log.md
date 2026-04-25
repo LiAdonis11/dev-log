@@ -95,3 +95,4 @@
 ### Day 30
 - Finished reading the theories on css specificty, cascade algorithm and inheritance
 - Finished CSS Fundamentals Quiz
+- Finished theory styling links and lists
