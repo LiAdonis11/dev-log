@@ -96,3 +96,5 @@
 - Finished reading the theories on css specificty, cascade algorithm and inheritance
 - Finished CSS Fundamentals Quiz
 - Finished theory styling links and lists
+### Day 31
+- Build a stylized todo list
