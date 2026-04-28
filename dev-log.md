@@ -98,3 +98,5 @@
 - Finished theory styling links and lists
 ### Day 31
 - Build a stylized todo list
+### Day 32
+- Finished reading working background and borders
