@@ -100,3 +100,4 @@
 - Build a stylized todo list
 ### Day 32
 - Finished reading working background and borders
+- Design a blog post card
