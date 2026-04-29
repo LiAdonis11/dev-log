@@ -101,3 +101,5 @@
 ### Day 32
 - Finished reading working background and borders
 - Design a blog post card
+### Day 33
+- Finished Lists, Links, Background and Borders Review
