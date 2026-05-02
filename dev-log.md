@@ -103,3 +103,5 @@
 - Design a blog post card
 ### Day 33
 - Finished Lists, Links, Background and Borders Review
+### Day 34
+- Finished Theories on UI design fundamentals
