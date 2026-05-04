@@ -107,3 +107,4 @@
 - Finished Theories on UI design fundamentals
 ### Day 35
 - Finished Theories on User centered design
+- Finished Theories on common design tools
