@@ -109,3 +109,4 @@
 - Finished Theories on User centered design
 - Finished Theories on common design tools
 - Reviewed design fundamentals
+- Finished design fundamentals quiz
