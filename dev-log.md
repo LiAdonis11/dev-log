@@ -105,3 +105,5 @@
 - Finished Lists, Links, Background and Borders Review
 ### Day 34
 - Finished Theories on UI design fundamentals
+### Day 35
+- Finished Theories on User centered design
