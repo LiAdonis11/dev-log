@@ -110,3 +110,5 @@
 - Finished Theories on common design tools
 - Reviewed design fundamentals
 - Finished design fundamentals quiz
+### Day 36
+- Build an event flyer page
