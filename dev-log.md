@@ -112,3 +112,5 @@
 - Finished design fundamentals quiz
 ### Day 36
 - Build an event flyer page
+### Day 36
+- Finish designing a greeting card in fcc.
